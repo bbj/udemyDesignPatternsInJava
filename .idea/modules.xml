@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/m04_SingleResponsabilityPrinciple/m04_SingleResponsabilityPrinciple.iml" filepath="$PROJECT_DIR$/m04_SingleResponsabilityPrinciple/m04_SingleResponsabilityPrinciple.iml" />
+      <module fileurl="file://$PROJECT_DIR$/m06_SingleResponsabilityPrincipleExercise/m06_SingleResponsabilityPrincipleExercise.iml" filepath="$PROJECT_DIR$/m06_SingleResponsabilityPrincipleExercise/m06_SingleResponsabilityPrincipleExercise.iml" />
+      <module fileurl="file://$PROJECT_DIR$/m08_OpenClosePrinciple/m08_OpenClosePrinciple.iml" filepath="$PROJECT_DIR$/m08_OpenClosePrinciple/m08_OpenClosePrinciple.iml" />
+      <module fileurl="file://$PROJECT_DIR$/udemyJavaDesign.iml" filepath="$PROJECT_DIR$/udemyJavaDesign.iml" />
+    </modules>
+  </component>
+</project>
