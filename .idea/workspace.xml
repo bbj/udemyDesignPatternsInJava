@@ -2,238 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f3a3713e-3d04-4a9d-9fb5-344814f620cf" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/courseJavaDesign/AbstractFactoryPattern/src/com/globalsoftwaresupport/AbstractFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/courseJavaDesign/AbstractFactoryPattern/src/com/globalsoftwaresupport/App.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/courseJavaDesign/AbstractFactoryPattern/src/com/globalsoftwaresupport/Car.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/courseJavaDesign/AbstractFactoryPattern/src/com/globalsoftwaresupport/ElectricCarFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/courseJavaDesign/AbstractFactoryPattern/src/com/globalsoftwaresupport/ElectricFord.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/courseJavaDesign/AbstractFactoryPattern/src/com/globalsoftwaresupport/ElectricToyota.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/courseJavaDesign/AbstractFactoryPattern/src/com/globalsoftwaresupport/FactoryProducer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/courseJavaDesign/AbstractFactoryPattern/src/com/globalsoftwaresupport/PetrolCarFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/courseJavaDesign/AbstractFactoryPattern/src/com/globalsoftwaresupport/PetrolFord.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/courseJavaDesign/AbstractFactoryPattern/src/com/globalsoftwaresupport/PetrolToyota.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/courseJavaDesign/AdapterPattern/src/com/globalsoftwaresupport/App.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/courseJavaDesign/AdapterPattern/src/com/globalsoftwaresupport/Bicycle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/courseJavaDesign/AdapterPattern/src/com/globalsoftwaresupport/BicycleAdapter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/courseJavaDesign/AdapterPattern/src/com/globalsoftwaresupport/Bus.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/courseJavaDesign/AdapterPattern/src/com/globalsoftwaresupport/Car.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/courseJavaDesign/AdapterPattern/src/com/globalsoftwaresupport/Vehicle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/courseJavaDesign/AdapterPatternExample/src/com/globalsoftwaresupport/App.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/courseJavaDesign/AdapterPatternExample/src/com/globalsoftwaresupport/CSVParser.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/courseJavaDesign/AdapterPatternExample/src/com/globalsoftwaresupport/MachineLearningDataParser.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/courseJavaDesign/AdapterPatternExample/src/com/globalsoftwaresupport/RealEstateMarketDataParser.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/courseJavaDesign/AdapterPatternExample/src/com/globalsoftwaresupport/StockMarketAdapter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/courseJavaDesign/AdapterPatternExample/src/com/globalsoftwaresupport/StockMarketDataParser.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/courseJavaDesign/BuilderPattern/src/App.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/courseJavaDesign/BuilderPattern/src/CSVParser.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/courseJavaDesign/BuilderPattern/src/MachineLearningDataParser.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/courseJavaDesign/BuilderPattern/src/RealEstateMarketDataParser.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/courseJavaDesign/BuilderPattern/src/StockMarketAdapter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/courseJavaDesign/BuilderPattern/src/StockMarketDataParser.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/courseJavaDesign/CommandPattern/src/com/balazsholczer/command/App.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/courseJavaDesign/CommandPattern/src/com/balazsholczer/command/Command.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/courseJavaDesign/CommandPattern/src/com/balazsholczer/command/Light.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/courseJavaDesign/CommandPattern/src/com/balazsholczer/command/Switcher.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/courseJavaDesign/CommandPattern/src/com/balazsholczer/command/TurnOffCommand.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/courseJavaDesign/CommandPattern/src/com/balazsholczer/command/TurnOnCommand.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/courseJavaDesign/CommandPatternII/src/com/balazsholczer/command/Algorithm.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/courseJavaDesign/CommandPatternII/src/com/balazsholczer/command/App.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/courseJavaDesign/CommandPatternII/src/com/balazsholczer/command/Command.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/courseJavaDesign/CommandPatternII/src/com/balazsholczer/command/Task.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/courseJavaDesign/CommandPatternII/src/com/balazsholczer/command/TaskSolver.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/courseJavaDesign/DecoratorPattern/src/com/balazsholczer/decorator/App.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/courseJavaDesign/DecoratorPattern/src/com/balazsholczer/decorator/Beverage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/courseJavaDesign/DecoratorPattern/src/com/balazsholczer/decorator/BeverageDecorator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/courseJavaDesign/DecoratorPattern/src/com/balazsholczer/decorator/Milk.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/courseJavaDesign/DecoratorPattern/src/com/balazsholczer/decorator/PlainBeverage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/courseJavaDesign/DecoratorPattern/src/com/balazsholczer/decorator/Sugar.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/courseJavaDesign/DependencyInversionPrinciple/src/com/globalsoftwaresupport/App.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/courseJavaDesign/DependencyInversionPrinciple/src/com/globalsoftwaresupport/Database.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/courseJavaDesign/DependencyInversionPrinciple/src/com/globalsoftwaresupport/DatabaseController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/courseJavaDesign/DependencyInversionPrinciple/src/com/globalsoftwaresupport/MySQLDatabase.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/courseJavaDesign/DependencyInversionPrinciple/src/com/globalsoftwaresupport/OracleDatabase.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/courseJavaDesign/DependencyInversionPrincipleExample/src/com/globalsoftwaresupport/App.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/courseJavaDesign/DependencyInversionPrincipleExample/src/com/globalsoftwaresupport/PayPal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/courseJavaDesign/DependencyInversionPrincipleExample/src/com/globalsoftwaresupport/PaymentController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/courseJavaDesign/DependencyInversionPrincipleExample/src/com/globalsoftwaresupport/PaymentMethod.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/courseJavaDesign/DependencyInversionPrincipleExample/src/com/globalsoftwaresupport/Payoneer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/courseJavaDesign/DependencyInversionPrincipleExample/src/com/globalsoftwaresupport/Skrill.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/courseJavaDesign/DependencyInversionPrincipleExample/src/com/globalsoftwaresupport/WebStore.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/courseJavaDesign/FacadePattern/src/com/balazsholczer/facade/Algorithm.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/courseJavaDesign/FacadePattern/src/com/balazsholczer/facade/App.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/courseJavaDesign/FacadePattern/src/com/balazsholczer/facade/BubbleSort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/courseJavaDesign/FacadePattern/src/com/balazsholczer/facade/HeapSort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/courseJavaDesign/FacadePattern/src/com/balazsholczer/facade/MergeSort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/courseJavaDesign/FacadePattern/src/com/balazsholczer/facade/SortingManager.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/courseJavaDesign/FactoryPattern/src/com/globalsoftwaresupport/Animal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/courseJavaDesign/FactoryPattern/src/com/globalsoftwaresupport/AnimalFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/courseJavaDesign/FactoryPattern/src/com/globalsoftwaresupport/AnimalType.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/courseJavaDesign/FactoryPattern/src/com/globalsoftwaresupport/App.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/courseJavaDesign/FactoryPattern/src/com/globalsoftwaresupport/Cat.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/courseJavaDesign/FactoryPattern/src/com/globalsoftwaresupport/Dog.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/courseJavaDesign/FactoryPattern/src/com/globalsoftwaresupport/Lion.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/courseJavaDesign/FactoryPattern/src/com/globalsoftwaresupport/Tiger.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/courseJavaDesign/FlyweightPattern/src/com/globalsoftwaresupport/App.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/courseJavaDesign/FlyweightPattern/src/com/globalsoftwaresupport/FlyweightSimulator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/courseJavaDesign/FlyweightPattern/src/com/globalsoftwaresupport/Rectangle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/courseJavaDesign/FlyweightPattern/src/com/globalsoftwaresupport/Shape.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/courseJavaDesign/FlyweightPattern/src/com/globalsoftwaresupport/ShapeFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/courseJavaDesign/InterfaceSegregationPrinciple/src/com/globalsoftwaresupport/App.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/courseJavaDesign/InterfaceSegregationPrinciple/src/com/globalsoftwaresupport/BalancedTree.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/courseJavaDesign/InterfaceSegregationPrinciple/src/com/globalsoftwaresupport/BinarySearchTree.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/courseJavaDesign/InterfaceSegregationPrinciple/src/com/globalsoftwaresupport/RotationTree.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/courseJavaDesign/InterfaceSegregationPrinciple/src/com/globalsoftwaresupport/Tree.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/courseJavaDesign/InterfaceSegregationPrincipleExample/src/com/globalsoftwaresupport/App.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/courseJavaDesign/InterfaceSegregationPrincipleExample/src/com/globalsoftwaresupport/CEO.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/courseJavaDesign/InterfaceSegregationPrincipleExample/src/com/globalsoftwaresupport/Employee.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/courseJavaDesign/InterfaceSegregationPrincipleExample/src/com/globalsoftwaresupport/ICEO.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/courseJavaDesign/InterfaceSegregationPrincipleExample/src/com/globalsoftwaresupport/IEmployee.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/courseJavaDesign/InterfaceSegregationPrincipleExample/src/com/globalsoftwaresupport/IManager.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/courseJavaDesign/InterfaceSegregationPrincipleExample/src/com/globalsoftwaresupport/Manager.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/courseJavaDesign/IteratorPattern/App.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/courseJavaDesign/IteratorPattern/Iterator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/courseJavaDesign/IteratorPattern/NameIterator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/courseJavaDesign/IteratorPattern/NameRepository.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/courseJavaDesign/JavaSolidMVC/src/com/balazsholczer/constants/Constants.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/courseJavaDesign/JavaSolidMVC/src/com/balazsholczer/controller/Controller.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/courseJavaDesign/JavaSolidMVC/src/com/balazsholczer/model/Database.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/courseJavaDesign/JavaSolidMVC/src/com/balazsholczer/model/Person.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/courseJavaDesign/JavaSolidMVC/src/com/balazsholczer/view/App.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/courseJavaDesign/JavaSolidMVC/src/com/balazsholczer/view/FormListener.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/courseJavaDesign/JavaSolidMVC/src/com/balazsholczer/view/FormPanel.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/courseJavaDesign/JavaSolidMVC/src/com/balazsholczer/view/MainFrame.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/courseJavaDesign/JavaSolidMVC/src/com/balazsholczer/view/TextPanel.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/courseJavaDesign/LiskovPrinciple/src/com/globalsoftwaresupport/App.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/courseJavaDesign/LiskovPrinciple/src/com/globalsoftwaresupport/ElectricCar.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/courseJavaDesign/LiskovPrinciple/src/com/globalsoftwaresupport/Fuel.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/courseJavaDesign/LiskovPrinciple/src/com/globalsoftwaresupport/PetrolCar.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/courseJavaDesign/LiskovPrinciple/src/com/globalsoftwaresupport/Vehicle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/courseJavaDesign/NullObjectPattern/src/com/balazsholczer/patterns/AbstractCustomer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/courseJavaDesign/NullObjectPattern/src/com/balazsholczer/patterns/App.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/courseJavaDesign/NullObjectPattern/src/com/balazsholczer/patterns/CustomerFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/courseJavaDesign/NullObjectPattern/src/com/balazsholczer/patterns/Database.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/courseJavaDesign/NullObjectPattern/src/com/balazsholczer/patterns/NullCustomer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/courseJavaDesign/NullObjectPattern/src/com/balazsholczer/patterns/RealCustomer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/courseJavaDesign/ObserverPattern/src/com/balazsholczer/observer/App.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/courseJavaDesign/ObserverPattern/src/com/balazsholczer/observer/DataPresenter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/courseJavaDesign/ObserverPattern/src/com/balazsholczer/observer/Observer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/courseJavaDesign/ObserverPattern/src/com/balazsholczer/observer/Subject.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/courseJavaDesign/ObserverPattern/src/com/balazsholczer/observer/WeatherObserver.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/courseJavaDesign/ObserverPattern/src/com/balazsholczer/observer/WeatherStation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/courseJavaDesign/ObserverPatternSwing/src/com/globalsoftwaresupport/App.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/courseJavaDesign/ObserverPatternSwing/src/com/globalsoftwaresupport/ClickListener.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/courseJavaDesign/ObserverPatternSwing/src/com/globalsoftwaresupport/MainFrame.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/courseJavaDesign/ObserverPatternSwing/src/com/globalsoftwaresupport/TextPanel.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/courseJavaDesign/ObserverPatternSwing/src/com/globalsoftwaresupport/Toolbar.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/courseJavaDesign/ObserverPatternTrading/src/com/globalsoftwaresupport/App.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/courseJavaDesign/ObserverPatternTrading/src/com/globalsoftwaresupport/BuyStockListener.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/courseJavaDesign/ObserverPatternTrading/src/com/globalsoftwaresupport/Observer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/courseJavaDesign/ObserverPatternTrading/src/com/globalsoftwaresupport/SellStockListener.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/courseJavaDesign/ObserverPatternTrading/src/com/globalsoftwaresupport/StockExchange.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/courseJavaDesign/ObserverPatternTrading/src/com/globalsoftwaresupport/Subject.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/courseJavaDesign/OpenClosedPrinciple/src/com/globalsoftwaresupport/AIInterviewQuestions.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/courseJavaDesign/OpenClosedPrinciple/src/com/globalsoftwaresupport/AlgorithmsInterviewQuestions.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/courseJavaDesign/OpenClosedPrinciple/src/com/globalsoftwaresupport/App.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/courseJavaDesign/OpenClosedPrinciple/src/com/globalsoftwaresupport/CSInterviewQuestions.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/courseJavaDesign/OpenClosedPrinciple/src/com/globalsoftwaresupport/FinanceInterviewQuestions.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/courseJavaDesign/OpenClosedPrinciple/src/com/globalsoftwaresupport/InterviewQuestion.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/courseJavaDesign/OpenClosedPrinciple/src/com/globalsoftwaresupport/InterviewQuestionProcessor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/courseJavaDesign/OpenClosedPrincipleExercise/src/com/globalsoftwaresupport/App.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/courseJavaDesign/OpenClosedPrincipleExercise/src/com/globalsoftwaresupport/InsertionSort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/courseJavaDesign/OpenClosedPrincipleExercise/src/com/globalsoftwaresupport/MergeSort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/courseJavaDesign/OpenClosedPrincipleExercise/src/com/globalsoftwaresupport/SelectionSort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/courseJavaDesign/OpenClosedPrincipleExercise/src/com/globalsoftwaresupport/SortingAlgorithm.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/courseJavaDesign/OpenClosedPrincipleExercise/src/com/globalsoftwaresupport/SortingProcessor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/courseJavaDesign/PrototypePattern/src/com/globalsoftwaresupport/App.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/courseJavaDesign/PrototypePattern/src/com/globalsoftwaresupport/Rectangle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/courseJavaDesign/PrototypePattern/src/com/globalsoftwaresupport/Shape.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/courseJavaDesign/PrototypePattern/src/com/globalsoftwaresupport/Square.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/courseJavaDesign/ServiceLocatorPattern/src/com/balazsholczer/App.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/courseJavaDesign/ServiceLocatorPattern/src/com/balazsholczer/Cache.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/courseJavaDesign/ServiceLocatorPattern/src/com/balazsholczer/DatabaseService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/courseJavaDesign/ServiceLocatorPattern/src/com/balazsholczer/InitialContext.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/courseJavaDesign/ServiceLocatorPattern/src/com/balazsholczer/MessagingService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/courseJavaDesign/ServiceLocatorPattern/src/com/balazsholczer/Service.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/courseJavaDesign/ServiceLocatorPattern/src/com/balazsholczer/ServiceLocator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/courseJavaDesign/SingleResponsibilityPrinciple/src/com/globalsoftwaresupport/App.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/courseJavaDesign/SingleResponsibilityPrinciple/src/com/globalsoftwaresupport/InputProcessor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/courseJavaDesign/SingleResponsibilityPrinciple/src/com/globalsoftwaresupport/Operation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/courseJavaDesign/SingleResponsibilityPrinciple/src/com/globalsoftwaresupport/Pair.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/courseJavaDesign/SingleResponsibilityPrinciple/src/com/globalsoftwaresupport/ViolationChecker.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/courseJavaDesign/SingleResponsibilityPrincipleExercise/src/com/globalsoftwaresupport/App.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/courseJavaDesign/SingletonPattern/src/com/globalsoftwaresupport/App.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/courseJavaDesign/SingletonPattern/src/com/globalsoftwaresupport/Database.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/courseJavaDesign/SingletonPattern/src/com/globalsoftwaresupport/DatabaseConnector.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/courseJavaDesign/StatePattern/src/com/balazsholczer/designpaterns/state/App.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/courseJavaDesign/StatePattern/src/com/balazsholczer/designpaterns/state/Context.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/courseJavaDesign/StatePattern/src/com/balazsholczer/designpaterns/state/OffState.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/courseJavaDesign/StatePattern/src/com/balazsholczer/designpaterns/state/OnState.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/courseJavaDesign/StatePattern/src/com/balazsholczer/designpaterns/state/State.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/courseJavaDesign/StrategyPattern/src/com/globalsoftwaresupport/Addition.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/courseJavaDesign/StrategyPattern/src/com/globalsoftwaresupport/App.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/courseJavaDesign/StrategyPattern/src/com/globalsoftwaresupport/Division.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/courseJavaDesign/StrategyPattern/src/com/globalsoftwaresupport/Multiplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/courseJavaDesign/StrategyPattern/src/com/globalsoftwaresupport/OperationManager.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/courseJavaDesign/StrategyPattern/src/com/globalsoftwaresupport/OperationManagerBAD.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/courseJavaDesign/StrategyPattern/src/com/globalsoftwaresupport/Strategy.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/courseJavaDesign/StrategyPattern/src/com/globalsoftwaresupport/Substraction.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/courseJavaDesign/StrategyPatternSolution/src/com/globalsoftwaresupport/App.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/courseJavaDesign/StrategyPatternSolution/src/com/globalsoftwaresupport/ImageManager.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/courseJavaDesign/StrategyPatternSolution/src/com/globalsoftwaresupport/LaptopRenderer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/courseJavaDesign/StrategyPatternSolution/src/com/globalsoftwaresupport/Renderer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/courseJavaDesign/StrategyPatternSolution/src/com/globalsoftwaresupport/SmartphoneRenderer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/courseJavaDesign/StrategyPatternSolution/src/com/globalsoftwaresupport/TVRenderer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/courseJavaDesign/TemplatePattern/src/com/globalsoftwaresupport/Algorithm.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/courseJavaDesign/TemplatePattern/src/com/globalsoftwaresupport/App.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/courseJavaDesign/TemplatePattern/src/com/globalsoftwaresupport/BubbleSort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/courseJavaDesign/TemplatePattern/src/com/globalsoftwaresupport/SelectionSort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/courseJavaDesign/VisitorPattern/App.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/courseJavaDesign/VisitorPattern/Chair.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/courseJavaDesign/VisitorPattern/ShoppingCart.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/courseJavaDesign/VisitorPattern/ShoppingCartVisitor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/courseJavaDesign/VisitorPattern/ShoppingItem.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/courseJavaDesign/VisitorPattern/Table.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/courseJavaDesign/VisitorPatternSolution/src/com/globalsoftwaresupport/App.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/courseJavaDesign/VisitorPatternSolution/src/com/globalsoftwaresupport/Circle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/courseJavaDesign/VisitorPatternSolution/src/com/globalsoftwaresupport/Rectangle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/courseJavaDesign/VisitorPatternSolution/src/com/globalsoftwaresupport/SaveCSVFile.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/courseJavaDesign/VisitorPatternSolution/src/com/globalsoftwaresupport/Shape.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/courseJavaDesign/VisitorPatternSolution/src/com/globalsoftwaresupport/Triangle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/courseJavaDesign/VisitorPatternSolution/src/com/globalsoftwaresupport/Visitor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/courseJavaDesign/__MACOSX/AdapterPattern/src/com/._.DS_Store" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/courseJavaDesign/design_patterns.pptx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/m04_SingleResponsabilityPrinciple/m04_SingleResponsabilityPrinciple.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/m04_SingleResponsabilityPrinciple/src/com/globalsoftwaresupport/App.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/m04_SingleResponsabilityPrinciple/src/com/globalsoftwaresupport/InputProcessor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/m04_SingleResponsabilityPrinciple/src/com/globalsoftwaresupport/Operation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/m04_SingleResponsabilityPrinciple/src/com/globalsoftwaresupport/Pair.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/m04_SingleResponsabilityPrinciple/src/com/globalsoftwaresupport/ViolationChecker.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/m06_SingleResponsabilityPrincipleExercise/m06_SingleResponsabilityPrincipleExercise.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/m06_SingleResponsabilityPrincipleExercise/src/com/bbj/App.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/m06_SingleResponsabilityPrincipleExercise/src/com/bbj/AppViolatingPrinciple.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/m08_OpenClosePrinciple/m08_OpenClosePrinciple.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/m08_OpenClosePrinciple/src/com/bbj/AIInterviewQuestion.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/m08_OpenClosePrinciple/src/com/bbj/AlgorithmsInterviewQuestion.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/m08_OpenClosePrinciple/src/com/bbj/App.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/m08_OpenClosePrinciple/src/com/bbj/CSInterviewQuesion.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/m08_OpenClosePrinciple/src/com/bbj/FinanceInterviewQuestion.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/m08_OpenClosePrinciple/src/com/bbj/InterviewQuestion.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/m08_OpenClosePrinciple/src/com/bbj/InterviewQuestionsProcessor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/m08_OpenClosePrinciple/src/com/globalsoftwaresupport/AIInterviewQuestions.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/m08_OpenClosePrinciple/src/com/globalsoftwaresupport/AlgorithmsInterviewQuestions.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/m08_OpenClosePrinciple/src/com/globalsoftwaresupport/App.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/m08_OpenClosePrinciple/src/com/globalsoftwaresupport/CSInterviewQuestions.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/m08_OpenClosePrinciple/src/com/globalsoftwaresupport/FinanceInterviewQuestions.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/m08_OpenClosePrinciple/src/com/globalsoftwaresupport/InterviewQuestion.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/m08_OpenClosePrinciple/src/com/globalsoftwaresupport/InterviewQuestionProcessor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/udemyJavaDesign.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/m10_OpenClosePrincipleExercise/m10_OpenClosePrincipleExercise.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/m10_OpenClosePrincipleExercise/src/com/bbj/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/m10_OpenClosePrincipleExercise/src/com/bbj/AssertionSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/m10_OpenClosePrincipleExercise/src/com/bbj/MergeSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/m10_OpenClosePrincipleExercise/src/com/bbj/SelectionSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/m10_OpenClosePrincipleExercise/src/com/bbj/SortAlgorithm.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/m10_OpenClosePrincipleExercise/src/com/bbj/SortingProcessor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -270,7 +47,8 @@
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false",
     "jdk.selected.JAVA_MODULE": "19",
-    "last_opened_file_path": "/home/bbj/Sync/IdeaProjects/udemyJavaDesign/m08_OpenClosePrinciple/src"
+    "last_opened_file_path": "/home/bbj/Sync/IdeaProjects/udemyJavaDesign/m08_OpenClosePrinciple/src",
+    "nodejs_package_manager_path": "npm"
   }
 }]]></component>
   <component name="RecentsManager">
@@ -284,7 +62,7 @@
       <recent name="com.globalsoftwaresupport" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.com.bbj.App">
+  <component name="RunManager" selected="Application.com.bbj.App (1)">
     <configuration name="App" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.globalsoftwaresupport.App" />
       <module name="m04_SingleResponsabilityPrinciple" />
@@ -311,6 +89,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="com.bbj.App (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.bbj.App" />
+      <module name="m10_OpenClosePrincipleExercise" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.bbj.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="com.bbj.App" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.bbj.App" />
       <module name="m08_OpenClosePrinciple" />
@@ -326,6 +117,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.com.bbj.App (1)" />
         <item itemvalue="Application.com.bbj.App" />
         <item itemvalue="Application.AppViolatingPrinciple" />
         <item itemvalue="Application.App" />
@@ -341,7 +133,7 @@
       <option name="presentableId" value="Default" />
       <updated>1666811258752</updated>
       <workItem from="1666811260501" duration="2887000" />
-      <workItem from="1666916261894" duration="14410000" />
+      <workItem from="1666916261894" duration="19316000" />
     </task>
     <servers />
   </component>
