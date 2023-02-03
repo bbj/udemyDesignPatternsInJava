@@ -6,6 +6,7 @@
       <module fileurl="file://$PROJECT_DIR$/m06_SingleResponsabilityPrincipleExercise/m06_SingleResponsabilityPrincipleExercise.iml" filepath="$PROJECT_DIR$/m06_SingleResponsabilityPrincipleExercise/m06_SingleResponsabilityPrincipleExercise.iml" />
       <module fileurl="file://$PROJECT_DIR$/m08_OpenClosePrinciple/m08_OpenClosePrinciple.iml" filepath="$PROJECT_DIR$/m08_OpenClosePrinciple/m08_OpenClosePrinciple.iml" />
       <module fileurl="file://$PROJECT_DIR$/m10_OpenClosePrincipleExercise/m10_OpenClosePrincipleExercise.iml" filepath="$PROJECT_DIR$/m10_OpenClosePrincipleExercise/m10_OpenClosePrincipleExercise.iml" />
+      <module fileurl="file://$PROJECT_DIR$/m12_LiskovSubstitutionPrinciple/m12_LiskovSubstitutionPrinciple.iml" filepath="$PROJECT_DIR$/m12_LiskovSubstitutionPrinciple/m12_LiskovSubstitutionPrinciple.iml" />
       <module fileurl="file://$PROJECT_DIR$/udemyJavaDesign.iml" filepath="$PROJECT_DIR$/udemyJavaDesign.iml" />
     </modules>
   </component>
